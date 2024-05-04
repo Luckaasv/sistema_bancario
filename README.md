@@ -1,2 +1,2 @@
 # sistema_bancario
-Repo sistema bancário.
+Criando um sistema bancário para o desafio de projeto da DIO.
